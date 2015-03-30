@@ -5,12 +5,12 @@
 
 <bean id="professor" class="Professor">
 	<constructor-arg>
-		<value>최성운</value>
+		<value>김대훈</value>
 	</constructor-arg>
 </bean>
 <bean id="lecture2" class="lecture">
 	<constructor-arg>
-		<value>C언어</value>
+		<value>건축학개론</value>
 	</constructor-arg>
 </bean>
 
